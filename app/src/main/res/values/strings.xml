@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ProyectoAndroid</string>
+    <string name="user">Usuario:</string>
+    <string name="password">Contraseña:</string>
+    <string name="login">Entrar</string>
+    <string name="textoObjeto">Su usuario es:</string>
+    <string name="fecha">Su contraseña es:</string>
+    <string name="correoElectronico">Correo Electrónico</string>
+    <string name="registrarse">Registrarse</string>
+    <string name="mostrarEmail">Su email es:</string>
+    <string name="mostrarDatosBaseDeDatos">mostrar datos DB</string>
+    <string name="DescriptionAlbum">Foto album</string>
+    <string name="DescriptionBtnStart">boton start</string>
+    <string name="tituloRV1">Vuelve a ...</string>
+    <string name="title_activity_bottom_nav">BottomNav</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="biblioteca">Library</string>
+    <string name="buscar">buscar</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="biometric_failed">Fingerprint not recognized</string>
+
+</resources>
